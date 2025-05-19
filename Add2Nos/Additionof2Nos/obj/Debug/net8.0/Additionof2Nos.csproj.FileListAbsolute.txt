@@ -1,0 +1,14 @@
+C:\Users\10690954\Add2Nos\Additionof2Nos\bin\Debug\net8.0\Additionof2Nos.exe
+C:\Users\10690954\Add2Nos\Additionof2Nos\bin\Debug\net8.0\Additionof2Nos.deps.json
+C:\Users\10690954\Add2Nos\Additionof2Nos\bin\Debug\net8.0\Additionof2Nos.runtimeconfig.json
+C:\Users\10690954\Add2Nos\Additionof2Nos\bin\Debug\net8.0\Additionof2Nos.dll
+C:\Users\10690954\Add2Nos\Additionof2Nos\bin\Debug\net8.0\Additionof2Nos.pdb
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\Additionof2Nos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\Additionof2Nos.AssemblyInfoInputs.cache
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\Additionof2Nos.AssemblyInfo.cs
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\Additionof2Nos.csproj.CoreCompileInputs.cache
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\Additionof2Nos.dll
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\refint\Additionof2Nos.dll
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\Additionof2Nos.pdb
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\Additionof2Nos.genruntimeconfig.cache
+C:\Users\10690954\Add2Nos\Additionof2Nos\obj\Debug\net8.0\ref\Additionof2Nos.dll
