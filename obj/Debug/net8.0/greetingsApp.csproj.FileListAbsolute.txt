@@ -1,0 +1,15 @@
+C:\Users\10690954\greetingsApp\bin\Debug\net8.0\greetingsApp.exe
+C:\Users\10690954\greetingsApp\bin\Debug\net8.0\greetingsApp.deps.json
+C:\Users\10690954\greetingsApp\bin\Debug\net8.0\greetingsApp.runtimeconfig.json
+C:\Users\10690954\greetingsApp\bin\Debug\net8.0\greetingsApp.dll
+C:\Users\10690954\greetingsApp\bin\Debug\net8.0\greetingsApp.pdb
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.AssemblyInfoInputs.cache
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.AssemblyInfo.cs
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.csproj.CoreCompileInputs.cache
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.sourcelink.json
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.dll
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\refint\greetingsApp.dll
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.pdb
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\greetingsApp.genruntimeconfig.cache
+C:\Users\10690954\greetingsApp\obj\Debug\net8.0\ref\greetingsApp.dll
